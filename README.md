@@ -1,5 +1,5 @@
 ## Приветствую вас! Меня зовут Мохамед и я Frontend-разработчик
- <img alt="Telegram" src= />
+ <img alt="Telegram" src= "https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
 ### Стэк технологий c которым я работал :
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
